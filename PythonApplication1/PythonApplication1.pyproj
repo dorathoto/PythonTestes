@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d44d1322-b7d7-431a-8860-1bb2f820a26f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>contaPalavras.py</StartupFile>
+    <StartupFile>testeClass.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,7 +24,7 @@
     <Compile Include="Aual325.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="class1.py">
+    <Compile Include="ContaBancaria.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="classe1.py">
@@ -36,6 +36,7 @@
     <Compile Include="read.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="testeClass.py" />
     <Compile Include="ValidarIp.py">
       <SubType>Code</SubType>
     </Compile>
